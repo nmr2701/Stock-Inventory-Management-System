@@ -6,4 +6,5 @@ Run file called run.py to initiate application
 Login Details
 
 Username: admin
+
 Password: 123
